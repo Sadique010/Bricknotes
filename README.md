@@ -4,7 +4,7 @@ A fast, private note-taking app that lives in a **single HTML file**. No install
 
 Notes are organised in a nested folder tree you can drag and drop, written in a clean block editor with a Notion-style `/` command menu, and can be exported as Markdown.
 
-![Brick Notes main view](screenshots/main.png)
+![Brick Notes main view](Screenshots/main.png)
 
 ## Features
 
@@ -27,41 +27,41 @@ Notes are organised in a nested folder tree you can drag and drop, written in a 
 
 Type `/` and the formatting block appears at the cursor. Type to filter (`/head` shows H1, H2 and H3), use the arrow keys and Enter, or click.
 
-![Slash command menu](screenshots/slash-menu.png)
+![Slash command menu](Screenshots/slash-menu.png)
 
 ### Folder tree and right-click menu
 
 Click a folder's name or arrow to open and close it. Right-click a folder for its options.
 
-![Folder right-click menu](screenshots/folder-menu.png)
+![Folder right-click menu](Screenshots/folder-menu.png)
 
 ### Moving a note to a folder
 
 The folder button beside the note title shows where the note lives (for example `DSA / Arrays`) and opens a nested picker.
 
-![Folder picker](screenshots/folder-picker.png)
+![Folder picker](Screenshots/folder-picker.png)
 
 ### Right-click the page
 
 Pin or delete the open note from the page's own right-click menu. Hold **Shift** while right-clicking to get your browser's normal menu back (spell-check, copy and paste).
 
-![Page right-click menu](screenshots/page-menu.png)
+![Page right-click menu](Screenshots/page-menu.png)
 
 ### Search
 
-![Search results](screenshots/search.png)
+![Search results](Screenshots/search.png)
 
 ### Collapsible sidebar
 
 The ☰ button inside the sidebar shrinks it to a thin rail so the note gets the full screen width. Click it again to bring the sidebar back.
 
-![Collapsed sidebar](screenshots/sidebar-collapsed.png)
+![Collapsed sidebar](Screenshots/sidebar-collapsed.png)
 
 ### On a phone
 
 | Sidebar | Editor |
 | --- | --- |
-| ![Mobile sidebar](screenshots/mobile-sidebar.png) | ![Mobile editor](screenshots/mobile-editor.png) |
+| ![Mobile sidebar](Screenshots/mobile-sidebar.png) | ![Mobile editor](Screenshots/mobile-editor.png) |
 
 ## Getting started
 
